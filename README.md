@@ -1,5 +1,7 @@
 # Notes app
 
+![Checks](https://github.com/NichitaCon/notes-app/actions/workflows/checks.yml/badge.svg)
+
 ## Running it with Docker
 
 ```bash
