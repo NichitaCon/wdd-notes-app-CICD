@@ -1,6 +1,6 @@
 # Notes app
 
-![Checks](https://github.com/NichitaCon/notes-app/actions/workflows/checks.yml/badge.svg)
+![Checks](https://github.com/NichitaCon/wdd-notes-app-CICD/actions/workflows/checks.yml/badge.svg)
 
 ## Running it with Docker
 
